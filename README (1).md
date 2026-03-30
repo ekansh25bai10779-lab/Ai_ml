@@ -143,9 +143,3 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 This project is licensed under the **MIT License**.
 
 ---
-
-## 👤 Author
-
-**Adarsh**
-🚀 Building AI systems to solve real-world problems
-
